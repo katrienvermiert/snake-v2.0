@@ -1,0 +1,12 @@
+.title{
+    background-color: lightblue;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    font-family: 'Press Start 2P';
+}
+
+
+
+.score, .highscore{
+    font-weight: 700;
+}
